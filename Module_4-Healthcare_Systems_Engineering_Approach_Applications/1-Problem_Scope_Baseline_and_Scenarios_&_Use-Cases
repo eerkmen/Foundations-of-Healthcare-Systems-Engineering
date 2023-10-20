@@ -12,3 +12,16 @@
 
 ## Understanding Objectives and Context
 - Importance: Must understand objectives and context of your problem within healthcare.
+
+## Types of Systems
+- **Complex System**: Example - Ventilator
+- **Systems of Systems**: Example - ICU
+- **Enterprise Systems**: Example - ICU within a hospital
+- **Understanding Scope**: Decide whether you're focusing on a single piece of equipment, an ICU, or an entire hospital system.
+
+## Defining the Problem Scope
+- **Questions to Consider**:
+    - "Is my responsibility just for the ventilator?"
+    - "Is my problem scope the whole ICU?"
+    - "Is my scope and responsibility for the hospital within the ICU?"
+- **Levels of Scope**: Suite level, Station level, Floor level, Entire hospital level
