@@ -17,3 +17,26 @@
 - **Concept of Operations:**
     - Consolidate solutions to visualize a new type of ICU.
     - Includes different types of clinical displays, reminders, and family-friendly portals.
+
+### Introduction to Architectures
+- **Importance of Architectures** in the systems engineering process.
+- **Stakeholder Perspectives:** Multiple viewpoints can be both an asset and a challenge.
+    - "Pretend the elephant is the problem."
+
+### Zachman Architecture Framework
+- **Different views of the problem:**
+    - Functional perspective
+    - Technological build
+    - Enterprise or systems level
+    - Scope
+
+#### Questions to Address:
+- What is it?
+- How is it put together?
+- Where, Who, When, Why?
+
+### Examples of Architectures in Healthcare
+- **Different levels of abstraction:**
+    1. Simple View: Focuses on large blocks of information and stakeholders.
+    2. Abstract View: Shows specific areas and types of communications.
+    3. Implementation-Adjacent: Drills down into databases, web services, and client information.
