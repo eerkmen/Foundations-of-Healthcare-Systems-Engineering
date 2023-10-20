@@ -40,3 +40,7 @@
     1. Simple View: Focuses on large blocks of information and stakeholders.
     2. Abstract View: Shows specific areas and types of communications.
     3. Implementation-Adjacent: Drills down into databases, web services, and client information.
+
+- **Key Insight:**
+    1. Different stakeholders may need different levels of detail.
+    2. "Architectures allow you to show different points of view of the same problem."
