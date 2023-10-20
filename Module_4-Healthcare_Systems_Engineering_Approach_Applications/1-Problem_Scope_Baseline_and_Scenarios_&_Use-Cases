@@ -25,3 +25,19 @@
     - "Is my problem scope the whole ICU?"
     - "Is my scope and responsibility for the hospital within the ICU?"
 - **Levels of Scope**: Suite level, Station level, Floor level, Entire hospital level
+
+## Baseline and Needs
+- **Baseline**: Current state of the system. What is the existing system that you have?
+- **Gap Identification**: Find gaps to develop requirements, design, and implementation strategies.
+- **Lifecycle**: Production, deployment, and in-service to set the stage for the new baseline.
+
+## Tools for Establishing Baseline
+- **Scenarios and Use-Cases**: Operational stories that describe events.
+    - **Types of Areas**: Cardiac, trauma, medical, surgical, neurological, pediatric, neonatal.
+    - **Narrative Example**: "A 92-year-old female needs pacemaker-lead surgery and has to be in the ICU for a certain amount of time."
+
+## Key Takeaways
+- **Problem scope is crucial**: Understanding it helps in allocating resources effectively.
+- **Baseline is the starting point**: It helps identify gaps and plan for improvements.
+- **Scenarios and Use-Cases provide context**: They help in understanding the operational needs and conditions.
+
